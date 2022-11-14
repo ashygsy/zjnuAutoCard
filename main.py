@@ -12,10 +12,10 @@ from email.mime.text import MIMEText
 from email.header import Header
 
 # 发信方的信息：发信邮箱，QQ 邮箱授权码
-from_addr = '945332608@qq.com'
-emailpwd = 'ryklxnunxoixbbba'
+from_addr = '2387790877@qq.com'
+emailpwd = 'hmc18371258003'
 # 收信方邮箱
-to_addr = '945332608@qq.com'
+to_addr = '2387790877@qq.com'
 # 发信服务器
 smtp_server = 'smtp.qq.com'
 
@@ -198,7 +198,9 @@ class AutoAgent:
         if '胡明超' in autocardres:
             print('send han')
             goemailladdr= '2387790877@qq.com'
-        
+        if '李天伦' in autocardres:
+            print('send han')
+            goemailladdr= '2213014414@qq.com'
 
         
         try:
