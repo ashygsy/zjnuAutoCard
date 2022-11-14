@@ -13,7 +13,7 @@ from email.header import Header
 
 # 发信方的信息：发信邮箱，QQ 邮箱授权码
 from_addr = '2387790877@qq.com'
-emailpwd = 'hmc18371258003'
+emailpwd = 'vaawrofwebdpecge'
 # 收信方邮箱
 to_addr = '2387790877@qq.com'
 # 发信服务器
